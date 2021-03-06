@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@apollo/react-hooks": "^3.1.2",
+    "ap": "^0.2.0",
     "apollo-cache-inmemory": "^1.6.3",
     "apollo-client": "^2.6.4",
     "apollo-link": "^1.2.13",
@@ -48,6 +49,7 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "jest": "^24.9.0",
-    "parcel": "^1.12.3"
+    "parcel": "^2.0.0-beta.1",
+    "parcel-bundler": "^1.12.3"
   }
 }
